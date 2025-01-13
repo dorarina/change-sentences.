@@ -1,0 +1,16 @@
+.firstback {
+  backgroung-color: white;
+}
+
+.secondback { backgroung-color: white;
+}
+
+.firstbackchange {
+  background-color: #006400;
+  color: #F0FFFF;
+}
+
+.secondbackchange {
+  background-color: #8B008B;
+    color: #FFF8DC;
+}
